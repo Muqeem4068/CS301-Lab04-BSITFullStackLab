@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hafiz tech\\onedrive\\desktop\\fullstackdev\\cs301\\lab04\\bsitfullstacklab\\dataaccesslayer\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hafiz tech\\onedrive\\desktop\\fullstackdev\\cs301\\lab04\\bsitfullstacklab\\dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F5E6A9-F31C-40A2-9CE8-B9B1F915483F}|Model\\Model.csproj|c:\\users\\hafiz tech\\onedrive\\desktop\\fullstackdev\\cs301\\lab04\\bsitfullstacklab\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F5E6A9-F31C-40A2-9CE8-B9B1F915483F}|Model\\Model.csproj|solutionrelative:model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hafiz tech\\onedrive\\desktop\\fullstackdev\\cs301\\lab04\\bsitfullstacklab\\dataaccesslayer\\dalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F165470A-D657-4D6D-8253-311994C8F5DB}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\IProductDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:58:31.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\DBHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\DBHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:00:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DalProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\DalProduct.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DalProduct.cs",
+              "ToolTip": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\DataAccessLayer\\DalProduct.cs",
+              "RelativeToolTip": "DataAccessLayer\\DalProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:57:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Model\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\HAFIZ TECH\\OneDrive\\Desktop\\FullStackDev\\CS301\\Lab04\\BSITFullStackLab\\Model\\ProductModel.cs",
+              "RelativeToolTip": "Model\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T04:53:17.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
